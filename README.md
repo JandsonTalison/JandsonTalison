@@ -1,11 +1,10 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://avatars1.githubusercontent.com/u/46177491?v=4">
 
-
-# Thiago Marinho
+# Jandson Talison
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou desenvolvedor web :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
