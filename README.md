@@ -1,4 +1,4 @@
-<img width="auto" src="https://avatars1.githubusercontent.com/u/46177491?v=4">
+
 
 # Jandson Talison
 
